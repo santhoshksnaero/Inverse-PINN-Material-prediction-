@@ -1,4 +1,4 @@
-# Inverse-PINN-Material-prediction-
+# Inverse-PINN-Material-prediction for 1D heat flow in a bar 
 "Aerospace Digital Twin prototype: Solving the 1D Heat Equation using Physics-Informed Neural Networks (PINNs). Bridges thermodynamics and AI to simulate engine cooling and discover material properties."
 # 1D Heat Transfer: Physics-Informed Intelligence
 ### *Bridging Thermodynamics and Deep Learning for Aerospace Propulsion*
