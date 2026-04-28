@@ -14,7 +14,7 @@ In high-performance engines like the **Safran LEAP**, understanding heat flow is
 ##  Physics Core
 This model enforces the **1D Heat Diffusion Equation**:
 $$\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}$$
-Function can be altered by the user as per the trend observed or required
+
 
 Unlike standard AI, this "Brain" doesn't just guess—it **obeys the Laws of Thermodynamics** by minimizing the physical residual during training.
 
