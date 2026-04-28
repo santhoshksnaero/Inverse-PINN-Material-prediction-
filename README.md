@@ -20,7 +20,7 @@ Unlike standard AI, this "Brain" doesn't just guess—it **obeys the Laws of The
 
 ##  Key Milestones
 - [x] **Phase 1:** Forward Simulation (Modeling heat flow over time).
-- [x] **Phase 2:** Inverse Problem Solving (Discovering $\alpha \approx 0.405$ from random sensor data).
+- [x] **Phase 2:** Inverse Problem Solving (Discovering $\alpha \approx 0.3989112675189972 $ from random sensor data).
 - [x] **Phase 3:** Architecture Study (Analyzing "Overfitting Cliffs" in 20x100 neuron networks).
 
 ---
